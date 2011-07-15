@@ -1,6 +1,6 @@
 [Eagle]
 Version="05 11 00"
-Platform="Windows"
+Platform="Mac OS X"
 Serial="62191E841E-LSR-WLM-1EL"
 Globals="Globals"
 Desktop="Desktop"
@@ -10,10 +10,10 @@ AutoSaveProject=1
 
 [Win_1]
 Type="Control Panel"
-Loc="0 24 1023 575"
-State=1
+Loc="340 154 939 553"
+State=2
 Number=0
 
 [Desktop]
-Screen="1920 1200"
+Screen="1280 800"
 Window="Win_1"
