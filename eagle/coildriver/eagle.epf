@@ -334,7 +334,7 @@ UsedLibrary="/Users/atrophy/git-repos/Following/SparkFun-Eagle-Library/SparkFun.
 
 [Win_1]
 Type="Schematic Editor"
-Loc="340 157 939 556"
+Loc="340 159 939 558"
 State=0
 Number=1
 File="Driver3.sch"
