@@ -21522,7 +21522,7 @@ type 0309, grid 2.5 mm</description>
 <part name="R3" library="resistor" deviceset="R-US_" device="0204/7" value="620R"/>
 <part name="R9" library="resistor" deviceset="R-US_" device="0204/7" value="100K"/>
 <part name="OPTO-IN" library="pinhead" deviceset="PINHD-1X2" device="" value="OPTO-IN"/>
-<part name="R13" library="resistor" deviceset="R-US_" device="0204/7" value="620"/>
+<part name="R13" library="resistor" deviceset="R-US_" device="0204/7" value="620R"/>
 <part name="FREQ" library="pinhead" deviceset="PINHD-1X2" device="" value="FREQ"/>
 <part name="R1" library="resistor" deviceset="R-US_" device="0204/7" value="620R"/>
 <part name="R2" library="resistor" deviceset="R-US_" device="0204/7" value="620R"/>
